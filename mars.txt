@@ -1,1 +1,2 @@
 Creating a new mars.txt file.
+Adding one more line, after adding a collaborator.
